@@ -1,0 +1,7 @@
+button:hover {
+    color: blue;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    /* color: blue; */
+}
